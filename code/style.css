@@ -174,7 +174,7 @@ strong{
 .two{
 
    
-    background-image: url(/assets/image/Vector2.png);
+    background-image: url(assets/image/Vector2.png);
     background-repeat: no-repeat; 
     background-size: cover;
  
@@ -270,7 +270,7 @@ margin-top: 2%;
 
 
 .three{
-    background-image: url(/assets/image/3.png);
+    background-image: url(assets/image/3.png);
     background-repeat: no-repeat;
     background-size: cover;
 }   
@@ -563,7 +563,7 @@ footer a:hover{
 
     .menu-main{
 
-        background-image: url(/assets/image/Background/Design-sans-titre.png);
+        background-image: url(assets/image/Background/Design-sans-titre.png);
         background-repeat: no-repeat; 
         background-size: cover;
         height: auto;
