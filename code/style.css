@@ -146,11 +146,11 @@ h1{
     font-size: 300%;
     font-weight: lighter;
     margin-top: 20%;
-    font-family:var(--titre)
+    font-family:Pinyon Script;
 }
 
 .h1 p {
-    font-family: var (--titre)
+    font-family: Pinyon Script;
 }
 
 strong{
