@@ -135,7 +135,7 @@ button:active {
 }
 
 
-.one p{
+.one-nom p{
     font-size: 280%;
     font-family: var(--titre);
     text-align: right;
