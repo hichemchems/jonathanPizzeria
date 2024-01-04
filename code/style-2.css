@@ -60,6 +60,11 @@ a:hover {
     margin-right: 2%;
 }
 
+.nav-barre-container{
+    display:flex;
+    
+}
+
 .nav-bar{
 
     margin: 1%;
