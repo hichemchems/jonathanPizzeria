@@ -29,6 +29,10 @@ body{
 
 }
 
+.nav-barre-container{
+    display:flex;
+}
+
 
 main{
 
