@@ -105,10 +105,10 @@ button:active {
 header {
    
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     width: 100%;
-   
+    padding:1%;
     color: white;
   
     background-color: var(--nani);
@@ -116,12 +116,12 @@ header {
 
 }
 
-.nav-barre { 
+.nav-bar { 
 
     width: 100%;
     display: flex;
     justify-content: space-around;
-    width: 25%;
+    
     align-items:center;
 }
 /* fin header*/
