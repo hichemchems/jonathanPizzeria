@@ -33,7 +33,7 @@ body{
 
 main{
 
-    background-image: url(assets/image/Background/Design-sans-titre.png);
+    background-image: url(../assets/image/Background/Design-sans-titre.png);
     background-repeat: no-repeat; 
     background-size: cover;
     
