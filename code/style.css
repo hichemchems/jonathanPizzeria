@@ -150,7 +150,7 @@ h1{
 }
 
 .h1 p {
-    font-family: Pinyon Script;
+     font-family: var(--titre);
 }
 
 strong{
