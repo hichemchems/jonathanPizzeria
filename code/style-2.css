@@ -62,14 +62,19 @@ a:hover {
 }
 
 .nav-barre-container{
-    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    font-size: 1.1rem;
     
 }
 
 .nav-bar{
 
-    margin: 1%;
-    width: 30%;
+    width: 54%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
