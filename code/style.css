@@ -1107,7 +1107,7 @@ footer a:hover{
 
             display: flex;
             
-            flex-wrap: wrap;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             
@@ -1122,7 +1122,7 @@ footer a:hover{
 
         .menu-article{
             width: 95%;
-            height: 27rem;
+            height: 28rem;
             padding: 0%;
             margin: 1%;
             text-align: center;
@@ -1218,7 +1218,9 @@ footer a:hover{
             margin-bottom: 6%;
         }
         .pizza-1{
-            height: 13rem;
+            height: 11rem;
+            width: 94%;
+            box-shadow: 7px 5px 0px 0px whitesmoke;
         }
 
 
