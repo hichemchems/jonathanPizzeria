@@ -879,13 +879,15 @@ footer a:hover{
             background-color: var(--zoro);
             padding-top: 2%;
             height: auto;
+            justify-content: center;
+            align-items: center;
         }
 
         .header{
             width: 35%
         }
 
-        .nav-barre-container{
+        #nav-barre-container{
             display:flex;
             flex-direction: column;
             width: 100%;
