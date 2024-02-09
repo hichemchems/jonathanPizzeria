@@ -65,6 +65,15 @@ header{
     
 }
 
+.nav-bar-container {
+    
+    font-size: 1rem;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+}
+
+
 .nav-barre{
     margin: 1%;
     width: 30%;
@@ -116,7 +125,6 @@ button:active {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    width: 25%;
     align-items:center;
 }
 /* fin header*/
