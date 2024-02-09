@@ -65,6 +65,15 @@ header{
     
 }
 
+.nav-bar-container{
+    width:80%;
+    font-size:1rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
 .nav-barre{
     margin: 1%;
     width: 30%;
