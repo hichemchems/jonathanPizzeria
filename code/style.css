@@ -889,10 +889,10 @@ footer a:hover{
 
         #nav-barre-container{
             display:flex;
-            flex-direction: column;
+            flex-direction: column !important;
             width: 100%;
-            justify-content: center;
-            align-items: center;
+            justify-content: center !important;
+            align-items: center !important;
         }
 
         .nav-bar{
