@@ -65,7 +65,7 @@ header{
     
 }
 
-.nav-bar-container {
+#nav-bar-container {
     
     font-size: 1rem;
     display: flex;
