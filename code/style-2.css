@@ -56,14 +56,16 @@ a:hover {
 .header{
     margin-top: 1%;
     font-size: 1rem;
-    width: 40%;
+    width: 80%;
     margin-right: 2%;
+    padding: 1%;
 }
 
 .nav-bar{
 
     margin: 1%;
-    width: 30%;
+    width: 60%;
+    font-size: 1rem;
 
 }
 
