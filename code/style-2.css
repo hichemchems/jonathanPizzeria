@@ -485,6 +485,8 @@ form{
         .nav-barre-container{
             flex-direction: column;
             width: 100%;
+            justify-content: center;
+            align-items: center;
         }
 
         .nav-bar{
