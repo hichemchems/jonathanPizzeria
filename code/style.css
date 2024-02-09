@@ -65,14 +65,14 @@ header{
     
 }
 
-.nav-bar-container{
-    width:80%;
-    font-size:1rem;
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
+.nav-bar-container {
     
+    font-size: 1rem;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
 }
+
 
 .nav-barre{
     margin: 1%;
@@ -125,7 +125,6 @@ button:active {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    width: 25%;
     align-items:center;
 }
 /* fin header*/
