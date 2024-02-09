@@ -880,6 +880,21 @@ footer a:hover{
             padding-top: 2%;
             height: auto;
         }
+
+        .header{
+            width: 35%
+        }
+
+        .nav-barre-container{
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .nav-bar{
+            width:100% !important;
+        }
+
+        
         header button:hover{
             color: aliceblue;
             background-color: var(--nika);
