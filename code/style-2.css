@@ -58,7 +58,7 @@ a:hover {
     margin-top: 1%;
     font-size: 1rem;
 
-    width: 80%;
+    width: 30%;
 
     margin-right: 2%;
     padding: 1%;
@@ -68,7 +68,7 @@ a:hover {
     display:flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 80%;
     font-size: 1.1rem;
     
 }
