@@ -1121,8 +1121,8 @@ footer a:hover{
         }
 
         .menu-article{
-            width: 42%;
-            height: 30rem;
+            width: 95%;
+            height: 27rem;
             padding: 0%;
             margin: 1%;
             text-align: center;
@@ -1294,8 +1294,8 @@ footer a:hover{
         .lien{
            
             display: flex;
-           
             padding: 3% 5% 0% 5%;
+            margin-left: 5%;
            
             /* font-size: 1rem; */
         }
