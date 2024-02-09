@@ -938,7 +938,10 @@ footer a:hover{
     width: 13rem;
 }
 
+.icon{
 
+    display:none;
+}
 
 
 .avis-1, .avis-2, .avis-3{
@@ -1005,7 +1008,7 @@ footer a:hover{
         #down p{
             text-align: justify;
             margin-left: 5%;
-            width: 60%;
+            width: 90%;
         }
 
         
